@@ -1,7 +1,3 @@
 {
-  "redirects": [
-    {
-      "source": "/(.*)"
-    }
-  ]
+  "buildCommand": "next build"
 }
